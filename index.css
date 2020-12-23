@@ -1,0 +1,15 @@
+
+ body{
+ 	background-image: url( 'web designing.jpg');
+ 	background-size: cover;
+	background-repeat: no-repeat;
+	
+ }
+ h1{
+ 	margin-top: 12%;
+ 	margin-left: 12%;
+ }
+ p{
+ 	margin-right: 50%;
+ 	margin-left: 20px;
+ }
